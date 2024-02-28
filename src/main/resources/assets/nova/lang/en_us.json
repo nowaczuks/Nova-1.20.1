@@ -3,5 +3,9 @@
   "item.nova.raw_sapphire": "Raw Sapphire",
   "creativetab.nova_tab": "Nova",
   "block.nova.sapphire_block": "Block of Sapphire",
-  "block.nova.raw_sapphire_block": "Block of Raw Sapphire"
+  "block.nova.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.nova.sapphire_ore": "Sapphire Ore",
+  "block.nova.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "block.nova.nether_deepslate_ore": "Nether Sapphire Ore",
+  "block.nova.end_stone_sapphire_ore": "End Sapphire Ore"
 }
