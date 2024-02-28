@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "nova:block/raw_sapphire_block"
+    }
+  }
+}

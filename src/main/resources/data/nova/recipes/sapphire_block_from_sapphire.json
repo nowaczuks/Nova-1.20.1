@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category":"misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "nova:sapphire"
+    }
+  },
+  "result": {
+    "item": "nova:sapphire_block"
+  }
+}

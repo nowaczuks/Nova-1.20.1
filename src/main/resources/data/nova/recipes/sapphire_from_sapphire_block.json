@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{
+    "item": "nova:sapphire_block"
+  }],
+
+  "result": {
+    "item": "nova:sapphire",
+    "count": 9
+  }
+}
